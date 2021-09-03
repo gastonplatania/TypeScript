@@ -1,8 +1,8 @@
 {
   "name": "semilla-typescript-lib",
   "version": "1.0.0",
-  "author": "Federico Aloi",
-  "license": "MIT",
+  "author": "Gaston Platania",
+  "license": "",
   "scripts": {
     "test": "run-s lint jest",
     "lint": "eslint --cache .",
